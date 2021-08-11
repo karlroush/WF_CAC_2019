@@ -5,5 +5,3 @@ The *Mutual Nondisclosure Agreement, Section 4* allows for my work to be made pu
 
 ## Read the report below
 *[report_Discovery2.pdf](https://github.com/karoush/WF_CAC_2019/blob/master/report_Discovery2.pdf)*
-
-Additional information located in *0000_README.txt*
